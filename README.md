@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/Tamerlan"><img src="https://github.com/Tamerlan1993/Tamerlan1993/blob/main/devcard.svg" width="400" alt="Tamerlan's Dev Card"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamerlan1993&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Tamerlans GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamerlan1993&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
