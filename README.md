@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Vue)](https://github.com/Tamerlan1993)
 
 <a href="https://app.daily.dev/Tamerlan"><img src="https://github.com/Tamerlan1993/Tamerlan1993/blob/main/devcard.svg" width="400" alt="Tamerlan's Dev Card"/></a>
 
