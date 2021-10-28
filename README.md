@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Tamerlan"><img src="https://api.daily.dev/devcards/master/devcard.svg?r=zs6" width="400" alt="Tamerlan's Dev Card"/></a>
+<a href="https://app.daily.dev/Tamerlan"><img src="https://github.com/Tamerlan1993/Tamerlan1993/blob/master/devcard.sv" width="400" alt="Tamerlan's Dev Card"/></a>
 
 <!--
 **Tamerlan1993/Tamerlan1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
