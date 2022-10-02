@@ -37,14 +37,9 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
-  
-<!--   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" />
+  <a href="https://storybook.js.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="tailwind" width="40" height="40" />
   </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="webpack" width="40" height="40" />
-  </a> -->
-  
 </p>
 
 <!-- [![Tamerlans GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamerlan1993&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
