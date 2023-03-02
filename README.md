@@ -46,6 +46,10 @@
 
 - 🌱 I’m currently learning Javascript, React and libraries
 
+🔗 &nbsp;**Connect with me**
+<a href="https://www.linkedin.com/in/tamerlan-pirmammadov-46a855132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamerlan_pirmammadov" height="30" width="40" /></a>
+
+
 <!--
 **Tamerlan1993/Tamerlan1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
