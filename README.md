@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Tamerlan"><img src="https://github.com/Tamerlan1993/Tamerlan1993/blob/main/devcard.svg" width="400" alt="Tamerlan's Dev Card"/></a>
+<a href="https://app.daily.dev/tamerlan"><img src="https://api.daily.dev/devcards/v2/zkLkcQvrb.png?type=default&r=q42" width="356" alt="Tamerlan's Dev Card"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
