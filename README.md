@@ -26,8 +26,8 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="40" height="40" />
+  <a href="https://tanstack.com/" target="_blank">
+    <img src="https://github.com/pheralb/svgl/blob/main/static/library/tanstack.svg" alt="tanstack" width="40" height="40" />
   </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
@@ -36,7 +36,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://storybook.js.org/" target="_blank">
-    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/storybook.dark.svg" alt="tailwind" width="40" height="40" />
+    <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/storybook.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
 
